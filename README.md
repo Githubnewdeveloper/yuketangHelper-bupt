@@ -15,3 +15,5 @@ https://github.com/heyblackC/yuketangHelper
 
 ![cookies示例](cookie.png)
 
+## 注意
+运行时不要使用vpn等软件，不然会报错
