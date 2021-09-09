@@ -1,5 +1,7 @@
 # yuketangHelper-bupt
+# 雨课堂网课视频观看自动脚本
 基于 heyblackC 大佬修改 适用于 bupt yuketang 
+
 
 https://github.com/heyblackC/yuketangHelper
 
